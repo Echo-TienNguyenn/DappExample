@@ -25,3 +25,8 @@ PRIVATE_KEY=PRIVATE_KEY_OF_DEPLOYER
 
 - Deploy contract: `yarn contract:deploy:music`
 - Verify contract on scan: `yarn contract:verify ./abi-music.json`
+
+<!-- vault: 0x4070873Bb4D947861ED03B72fE8C1b5aC51A56AD -->
+<!-- sci : 0x88210DE24D5588B996608Ebd44Ddb2A56ebE47dD -->
+<!-- Market : 0xE0DC76732dCb235ce364A11bD1aFD51a00030Dce -->
+<!-- NFT: 0xF63b4eF7a6f3ae747A71F2C2b22f43a876026899 -->
